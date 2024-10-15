@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/atv23/atv23/blob/main/banner.png?raw=true)](https://my-portfolio-ruddy-sigma-52.vercel.app/)
 <h1 align="center">Hi👋 I'm Atharva</h1>
 <h3 align="center">Chasing Excellence through Perpetual Evolution</h3>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/atv23/atv23/blob/main/gif.gif?raw=true" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/atv23/atv23/blob/main/gif2.gif?raw=true" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atv23&label=Profile%20views&color=0bc8d5&style=flat" alt="atv23" /> </p>
 

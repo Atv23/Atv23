@@ -21,6 +21,14 @@
 
 <br>
 
+<div style="text-align:center;align:center;">
+  
+# 📡 My Contributions in HACKTOBERFEST
+ 
+[![An image of @atv23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atv23)](https://holopin.io/@atv23)
+
+</div>
+
 # 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/atv23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atv23" height="30" width="40" /></a>
